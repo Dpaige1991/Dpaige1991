@@ -13,6 +13,8 @@ I'm Dominique from Houston, Tx and I'm an Experienced Game Developer and Coding 
 * React
 * Construct 3
 
+## Example Of Work
+
 ## Links
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Dpaige1991)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dominique-paige-2b575998/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/FlBXivfDNBA0n1ZBRtkU0g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/D_Paige1991)  
