@@ -5,6 +5,8 @@
 
 I'm Dominique from Houston, Tx and I'm an Experienced Game Developer and Coding Instructor. I really enjoy learn how to create my own games, teach coding classes, and learning new languages. I also enjoy developing VR games in Unity 3D.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpaige1991&label=Profile%20views&color=0e75b6&style=flat" alt="dpaige1991" /> </p>
+
 ## Skills and Experience
 
 * Unity
