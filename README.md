@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpaige1991&label=Profile%20views&color=0e75b6&style=flat" alt="dpaige1991" /> </p>
 
 ### Hi there 👋, Dominique Paige
+(https://media-exp1.licdn.com/dms/image/C4D16AQEBzOwJRrh1Nw/profile-displaybackgroundimage-shrink_200_800/0/1660861286814?e=1666224000&v=beta&t=PnR5P_pebfYdBhu_NURHvQBTcKnjeC-5808cAQwATLc)
 
 I'm Dominique from Houston, Tx and I'm an Experienced Game Developer and Coding Instructor. I really enjoy learn how to create my own games, teach coding classes, and learning new languages. I also enjoy developing VR games in Unity 3D.
 
