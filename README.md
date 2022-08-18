@@ -7,6 +7,16 @@
 
 I'm Dominique from Houston, Tx and I'm an Experienced Game Developer and Coding Instructor. I really enjoy learn how to create my own games, teach coding classes, and learning new languages. I also enjoy developing VR games in Unity 3D.
 
+- 🌱 I’m currently learning **React, C++**
+
+- 💬 Ask me about **Unity, Roblox**
+
+- 📫 How to reach me **dominique.paige@outlook.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DimXmCHu_vzXA34PMaHKGBHIzb5rOxTc/view?usp=sharing](https://drive.google.com/file/d/1DimXmCHu_vzXA34PMaHKGBHIzb5rOxTc/view?usp=sharing)
+
+- ⚡ Fun fact **I am a wrestling fan.**
+
 ## Skills and Experience
 
 * Unity
@@ -20,12 +30,6 @@ I'm Dominique from Houston, Tx and I'm an Experienced Game Developer and Coding 
 ## Links
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Dpaige1991)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dominique-paige-2b575998/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/FlBXivfDNBA0n1ZBRtkU0g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/D_Paige1991)  
-
-## Current Progress
-
-- 🔭 I’m currently working on curriculum development. 
-- 🌱 I’m currently learning React.js. 
-- 📫 How to reach me: you can reach me via LinkedIn 
 
 ## Stats
 
