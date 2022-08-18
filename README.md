@@ -8,18 +8,10 @@ I'm Dominique from Houston, Tx and I'm an Experienced Game Developer and Coding 
 
 Skills: Unity / Unreal / Python / Roblox / Blender / Construct 3 / React
 
+- 🔭 I’m currently working on curriculum development. 
+- 🌱 I’m currently learning React.js. 
+- 📫 How to reach me: you can reach me via LinkedIn 
+
 [![Dominique's github stats](https://github-readme-stats.vercel.app/api?username=Dpaige1991)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Dpaige1991)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Dpaige1991)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Dpaige1991&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Dpaige1991)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Dpaige1991)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Dpaige1991)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Dpaige1991)
